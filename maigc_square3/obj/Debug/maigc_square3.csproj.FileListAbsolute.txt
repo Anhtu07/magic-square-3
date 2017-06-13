@@ -1,0 +1,12 @@
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\bin\Debug\maigc_square3.exe.config
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\bin\Debug\maigc_square3.exe
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\bin\Debug\maigc_square3.pdb
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\obj\Debug\maigc_square3.csprojResolveAssemblyReference.cache
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\obj\Debug\maigc_square3.exe
+c:\users\tuna\documents\visual studio 2015\Projects\maigc_square3\maigc_square3\obj\Debug\maigc_square3.pdb
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\bin\Debug\maigc_square3.exe.config
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\obj\Debug\maigc_square3.exe
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\obj\Debug\maigc_square3.pdb
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\bin\Debug\maigc_square3.exe
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\bin\Debug\maigc_square3.pdb
+D:\Not the real OneDrive\wtf\maigc_square3\maigc_square3\obj\Debug\maigc_square3.csprojResolveAssemblyReference.cache
